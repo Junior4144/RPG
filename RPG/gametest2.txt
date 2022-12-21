@@ -1,0 +1,19 @@
+Game Verification
+Light Sword
+Light Armor
+x2
+18
+95
+8
+70
+0
+
+Light Bow
+Light Armor
+x1
+15
+82
+12
+60
+0
+
